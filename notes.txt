@@ -1,1 +1,1 @@
-Git is an important engineering tool.
+Git is fundamental to software development.
