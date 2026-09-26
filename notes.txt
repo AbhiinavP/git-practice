@@ -1,2 +1,3 @@
 
 Git is an essential engineering tool.
+GitHub enables collaborations around GitHub repositories.
