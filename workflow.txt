@@ -1,0 +1,9 @@
+Git workflow:
+
+1. Modify
+2. Stage
+3. Commit
+4. Push
+5. Pull Request
+6. Review
+7. Merge
